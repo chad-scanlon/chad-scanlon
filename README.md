@@ -1,6 +1,6 @@
 
 Hi! I'm Chad. I'm a software developer eager to learn, build, and innovate.
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Merchant Marketplace 
 - 🥷 Closer everyday to becoming a React ninja
