@@ -2,7 +2,7 @@
 Hi! I'm Chad. I'm a software developer eager to learn, build, and innovate.
 
 
-- 🔭 I’m currently working on Macronutrient Calculator 
+- 🔭 I’m currently working on You Betcha 
 - 🥷 Closer everyday to becoming a React ninja
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about web development...or running and fitness
